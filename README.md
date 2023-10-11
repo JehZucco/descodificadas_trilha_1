@@ -31,3 +31,4 @@ Nas outras branches tem os desafios propostos pela prof no decorrer da trilha
 
 <h2>Desafio divs</h2>
 Nesse desafio a proposta é criar a seguinte página:
+<img src="/img-desafios/divs.png">
