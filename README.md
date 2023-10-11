@@ -27,7 +27,7 @@ https://sites.google.com/view/academia-descod/p%C3%A1gina-inicial
 🚧 Em construção 🚧
 
 <h1>Desafios</h1>
-Nas outras branches tem os desafios propostos pela prof no decorrer da trilha
+Nas outras branches estão os desafios propostos no decorrer da trilha
 
 <h2>Desafio divs</h2>
 Nesse desafio a proposta é criar a seguinte página:
