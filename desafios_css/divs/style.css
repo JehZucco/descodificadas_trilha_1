@@ -1,0 +1,37 @@
+body{
+  
+   margin: 80px;
+   text-align: center;
+   
+}
+
+
+div { 
+    text-align: center;
+
+     display: inline-block; 
+
+    border: 1px solid white;
+
+    width: 200px;
+
+    height: 200px;
+
+    margin-bottom: -4px;
+}
+
+.vermelha{
+    background-color: red;
+}
+
+.azul{
+    background-color: #00A8FF;
+}
+
+.verde{
+    background-color: green;
+}
+
+.borda_preta{
+    border: 2px solid black;
+}
