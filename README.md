@@ -32,3 +32,7 @@ Nas outras branches estão os desafios propostos no decorrer da trilha
 <h2>Desafio divs</h2>
 Nesse desafio a proposta é criar a seguinte página:
 <img src="/img-desafios/divs.png">
+
+<h2> Desagio Box Model</h2>
+Faça um site que reproduza a imagem abaixo usando as configurações para Box Model.
+<img src="/img-desafios/box_model.png">
