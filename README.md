@@ -25,14 +25,3 @@ https://sites.google.com/view/academia-descod/p%C3%A1gina-inicial
 
 <h1> Status do Projeto </h1>
 🚧 Em construção 🚧
-
-<h1>Desafios</h1>
-Nas outras branches estão os desafios propostos no decorrer da trilha
-
-<h2>Desafio divs</h2>
-Nesse desafio a proposta é criar a seguinte página:
-<img src="/img-desafios/divs.png">
-
-<h2> Desagio Box Model</h2>
-Faça um site que reproduza a imagem abaixo usando as configurações para Box Model.
-<img src="/img-desafios/box_model.png">
