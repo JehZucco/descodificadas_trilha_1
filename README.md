@@ -24,4 +24,6 @@ O tema da landpage era livre, então escolhi algo relacionado à academia, por s
 https://sites.google.com/view/academia-descod/p%C3%A1gina-inicial 
 
 <h1> Status do Projeto </h1>
-🚧 Em construção 🚧
+🚧 <s> Em construção </s>🚧
+
+Concluído!
