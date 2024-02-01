@@ -14,13 +14,21 @@
 h2{
     font-size: 32px;
     font-weight: 300;
+    max-width: 360px;
+}
+@media (max-width: 480px){
+    h2{
+        font-size: 26px;
+        text-align: center;
+        font-weight: 500;
+    }
 }
 .textCenter{
     text-align: center;
 }
 header {
     height: 100vh;
-    background-image: 
+    background-image:
     linear-gradient(rgba(50, 50, 50, 0.7), rgba(50, 50, 50, 0.7)),
     url("./pexels-andrea-piacquadio-866023.jpg");
     background-size: cover;
@@ -38,6 +46,11 @@ padding-left: 10%;
 font-weight: 300;
 font-size: 20px;
 }
+@media (max-width: 480px){
+    .logo p{
+        font-size: 19px;
+    }
+}
 .menu{
     float: right;
     padding: 2% 1% 0 0;
@@ -49,6 +62,12 @@ font-size: 20px;
     border-bottom: 5px solid #f5d759;
     padding-bottom: 1%;
     margin-right: 10px;
+}
+@media (max-width: 480px){
+    .menu a{
+        font-size: 19px;
+        border-bottom: 4px solid #f5d759;
+    }
 }
 a:hover {
     color: #f5d759;
@@ -65,9 +84,21 @@ a:hover {
     font-size: 80px;
     font-weight: 500;
 }
+@media (max-width: 480px){
+    .content h1{
+        font-size: 65px;
+    }
+}
 .slogan{
     font-size: 25px;
     font-weight: 500;
+}
+@media (max-width: 480px){
+    .content p{
+        text-align: center;
+        line-height: 1.5;
+        max-width: 300px;
+    }
 }
 .frase{
     display: flex;
@@ -77,7 +108,12 @@ a:hover {
     font-weight: 300;
     height: 40vh;
     gap: 50px;
-} 
+}
+@media (max-width: 480px){
+    .frase{
+        font-size: 25px;
+    }
+}
 button{
     width: 300px;
     height: 50px;
@@ -89,6 +125,13 @@ button{
     cursor: pointer;
     letter-spacing: 1px;
     box-shadow:  4px 8px #a0a0a0;
+}
+@media (max-width:480px){
+    button{
+        width:250px;
+        height: 40px;
+        font-size: 13px;
+    }
 }
 .botao-amarelo{
     background-color: #f5d759;
@@ -106,6 +149,17 @@ button{
     flex-direction: column;
     justify-content: center;
 }
+@media (max-width: 480px){
+    .planos{
+        height: 100vh;
+        font-size: 26px;
+        gap: 5px;
+        line-height: 1.2;
+    }
+    .planos button{
+        margin-top: 60px;
+    }
+}
 .planos p{
     padding-top: 2%;
 }
@@ -113,10 +167,15 @@ p span{
     font-size: 34px;
     font-weight: 700;
 }
+@media (max-width: 480px){
+    p span{
+        font-size: 28px;
+    }
+}
 .modalidade{
     font-weight:700;
     color: #eec10c;
-} 
+}
  .imagem_boxe{
     height: 60vh;
     font-weight: 300;
@@ -136,10 +195,20 @@ p span{
     align-items: center;
     padding: 60px 0%;
 }
+@media (max-width: 480px){
+    .video{
+    height: 100vh;
+    }
+}
 .video video{
     height: 300px;
     width: 500px;
     margin-top: 70px;
+}
+@media (max-width: 480px){
+    .video video{
+        width:fit-content;
+    }
 }
 .video button{
     margin-top: 80px;
@@ -167,6 +236,17 @@ p span{
     font-weight: 300;
     overflow: auto;
 }
+@media (max-width: 480px){
+    .linhaDois{
+        flex-direction: column;
+        gap: 20px;
+    }
+    .local{
+        height: fit-content;
+        gap: 8px;
+    }
+
+}
 .local p{
     padding: 10px ;
     font-size: 20px;
@@ -180,6 +260,11 @@ p span{
 .maps{
     height: 60vh;
     width: 70vh ;
+}
+@media (max-width: 480px){
+    .maps{
+        width: fit-content;
+    }
 }
 footer{
     padding: 20px;
